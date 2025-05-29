@@ -1,0 +1,56 @@
+body{
+    background-image: url('imagen\ pantalla.jpg'); 
+    background-size: cover; 
+    background-position: center;
+    height: 100vh; color: white;"
+}
+h1{
+    color: rgb(0,255,0);
+    font-size: 60px;
+    margin-left: 30%;
+    font-family: broadway;
+    
+}
+p{
+    color: rgb(204,236,255);
+    font-size: medium;
+    margin-left: 20%;
+    font-family: broadway;
+     
+}
+
+.principal{
+    color: red;
+}
+
+.secundaria{
+    color:blue;
+}
+
+.secundaria2{
+    color: coral;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 75px;
+    margin-left: 34%;
+}
+
+#titulo1{
+    color:cornflowerblue
+}
+.div1{
+    width: 500px;
+    height: 200px;
+    margin: 50px;
+    padding: 50px;
+    border: 3px dashed yellow;
+    
+}
+
+.div2{
+    width: 500px;
+    height: 150px;
+    margin: 50px;
+    padding: 50px;
+    border: 3px dashed ;
+
+}

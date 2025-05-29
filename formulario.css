@@ -1,0 +1,10 @@
+.contenedor{
+    display: flex;
+    flex-direction: column;
+}
+
+.contenedor{
+   width: 40%;
+  margin-left: 30%;
+  margin-right: 30%;
+   }
